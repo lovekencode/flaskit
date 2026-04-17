@@ -1,13 +1,37 @@
 <p align="center">
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4trhpkkdbbzutc5ufxi9.png" width="160px">
-  <h1 align="center">Flaskit</h1>
+  <a href="https://github.com/lovekencode/flaskit">
+    <img src="https://img.shields.io/badge/Flaskit-Modern%20Python%20Web%20Framework-blue?style=for-the-badge&logo=python" alt="Flaskit Framework">
+  </a>
 </p>
-<p align="center">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/FlaskitFramework/flaskit/pythonapp.yml">
 
-  <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/FlaskitFramework/flaskit?include_prereleases">
-  <img src="https://img.shields.io/github/license/FlaskitFramework/flaskit.svg" alt="License">
-  <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
+<p align="center">
+  <pre>
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ███████╗███████╗ ██████╗██████╗ ███████╗████████╗         ║
+║   ██╔════╝██╔════╝██╔════╝██╔══██╗██╔════╝╚══██╔══╝         ║
+║   ███████╗█████╗  ██║     ██████╔╝█████╗     ██║            ║
+║   ╚════██║██╔══╝  ██║     ██╔══██╗██╔══╝     ██║            ║
+║   ███████║███████╗╚██████╗██║  ██║███████╗   ██║            ║
+║   ╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝            ║
+║                                                              ║
+║                � FLASKIT FRAMEWORK 🔥                      ║
+║         Modern Python Web Framework Developers Love         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+  </pre>
+</p>
+
+<p align="center">
+  <img alt="GitHub release" src="https://img.shields.io/github/v/release/lovekencode/flaskit?style=flat-square">
+  <img alt="PyPI version" src="https://img.shields.io/pypi/v/flaskit?style=flat-square">
+  <img alt="Python versions" src="https://img.shields.io/pypi/pyversions/flaskit?style=flat-square">
+  <img alt="License" src="https://img.shields.io/github/license/lovekencode/flaskit?style=flat-square">
+  <img alt="Code style" src="https://img.shields.io/badge/code%20style-black-000000?style=flat-square">
+</p>
+
+<p align="center">
+  <strong>🚀 The Python Web Framework Developers Actually Love to Build With</strong>
 </p>
 
 ## 🎯 Why Developers Love Flaskit
